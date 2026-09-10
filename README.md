@@ -1,6 +1,6 @@
-# 工记 隐私政策与用户协议（公开托管页）
+# 工刻 隐私政策与用户协议（公开托管页）
 
-HarmonyOS 应用「工记」(`com.zeng1071230.worklog`) 用于 AppGallery Connect「自定义隐私政策」的公开页面。
+HarmonyOS 应用「工刻」(`com.zeng1071230.worklog`) 用于 AppGallery Connect「自定义隐私政策」的公开页面。应用名原为「工记」，2026-09-10 因不符合上架命名规范改名，包名不变。
 
 - 隐私政策：`index.html`
 - 隐私权利说明：`rights.html`
